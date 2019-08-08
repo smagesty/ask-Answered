@@ -6,7 +6,7 @@
 
 This is a CLI app which uses Javascript and requires the installation of Axios, Moment and the Spotify API.
 
-LIRI will be a command line node app that takes in parameters and gives back data. LIRI can take in the parameter of "Concert-This", "Spotify-This Song", "Movie-This", and "Do-what-it-says" to acquire information about concerts, spotify and the Online Movie Database and reading a "random.txt. See screenshots for further information
+askAnswered will be a command line node app that takes in parameters and gives back data. askAnswered can take in the parameter of "Concert-This", "Spotify-This Song", "Movie-This", and "Do-what-it-says" to acquire information about concerts, spotify and the Online Movie Database and reading a "random.txt. See screenshots for further information
 
 
 ### "Concert-this"
