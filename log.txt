@@ -86,3 +86,91 @@ City:Chicago
 Date:08 01 2019
 ------------------------------------------------------------
 
+Title:Elf
+
+Year:2003
+
+IMDB Rating:7.0/10
+
+Rotten Tomatoes Rating:83%
+
+Country:USA
+
+Language:English
+
+Plot:After discovering he is a human, a man raised as an elf at the North Pole decides to travel to New York City to locate his real father.
+
+Actors:Will Ferrell, James Caan, Bob Newhart, Edward Asner
+------------------------------------------------------------
+
+Band:Lil Wayne
+
+Venue:Austin360 Amphitheater
+
+City:Austin
+
+Date:08 01 2019
+------------------------------------------------------------
+
+Artist: Red Hot Chili Peppers
+
+Song name: Under the Bridge
+
+Album Name: Blood Sugar Sex Magik (Deluxe Edition)
+
+Preview Link: https://p.scdn.co/mp3-preview/90e41778392f27b6f7dd82db4c90916b3727aa6a?cid=42f02bb6d7574827ae2be4cd2e23ac59
+------------------------------------------------------------
+
+Artist: Flo Rida
+
+Song name: Right Round
+
+Album Name: R.O.O.T.S. (Route Of Overcoming The Struggle)
+
+Preview Link: https://p.scdn.co/mp3-preview/03ef1692505cecd8365373d11679d35af3880eee?cid=42f02bb6d7574827ae2be4cd2e23ac59
+------------------------------------------------------------
+
+Artist: Flo Rida
+
+Song name: Right Round
+
+Album Name: R.O.O.T.S. (Route Of Overcoming The Struggle)
+
+Preview Link: https://p.scdn.co/mp3-preview/03ef1692505cecd8365373d11679d35af3880eee?cid=42f02bb6d7574827ae2be4cd2e23ac59
+------------------------------------------------------------
+
+Title:Elf
+
+Year:2003
+
+IMDB Rating:7.0/10
+
+Rotten Tomatoes Rating:83%
+
+Country:USA
+
+Language:English
+
+Plot:After discovering he is a human, a man raised as an elf at the North Pole decides to travel to New York City to locate his real father.
+
+Actors:Will Ferrell, James Caan, Bob Newhart, Edward Asner
+------------------------------------------------------------
+
+Artist: Red Hot Chili Peppers
+
+Song name: Under the Bridge
+
+Album Name: Blood Sugar Sex Magik (Deluxe Edition)
+
+Preview Link: https://p.scdn.co/mp3-preview/90e41778392f27b6f7dd82db4c90916b3727aa6a?cid=42f02bb6d7574827ae2be4cd2e23ac59
+------------------------------------------------------------
+
+Band:Lil Wayne
+
+Venue:The Forum
+
+City:Los Angeles
+
+Date:08 08 2019
+------------------------------------------------------------
+

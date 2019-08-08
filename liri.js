@@ -91,9 +91,9 @@ function conInfo(input) {
     "/events?app_id=codingbootcamp";
 
   //If no band is provided, use lil wayne
-  // if (!input) {
-  //   input = "Lil wayne";
-  // }
+  if (!input) {
+    input = "Lil wayne";
+  }
 
 
   // Performing get request
@@ -200,7 +200,7 @@ function doThis() {
     // Then split it by commas (to make it more readable)
     var dataArr = data.split(",");
 
-    // I used and if statment to loop through the commands that might be present in random.txt
+    // I used if statment to loop through the commands that might be present in random.txt
     if (dataArr[0] === "spotify-this-song") {
       var songcheck = dataArr[1].slice(1, -1);
       spotInfo(songcheck);
