@@ -11,7 +11,7 @@ var liriCom = process.argv[2];
 var input = process.argv.slice(3).join(" ");
 
 
-var spotify = new Spotify(keys.spotify);
+// var spotify = new Spotify(keys.spotify);
 
 //divider to seperate logs in log.txt file.
 var divider =
